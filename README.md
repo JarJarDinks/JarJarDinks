@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jacob Cochrane</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarjardinks&label=Profile%20views&color=0e75b6&style=flat" alt="jarjardinks" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jarjardinks&label=Profile%20views&color=0e75b6&style=flat" alt="jarjardinks" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarjardinks" alt="jarjardinks" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
