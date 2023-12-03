@@ -44,7 +44,7 @@
 <p align="left">
   <a href="https://github.com/JarJarDinks/recipe-app"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=recipe-app&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/JarJarDinks/myFLix-Angular-client"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=myFlix-Angular-client&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
-  <a href="[https://github.com/JarJarDinks/meet-app](https://jarjardinks.github.io/Dev-Meetups/)"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=meet-app&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/JarJarDinks/Dev-Meetups"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=Dev-Meetups&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/JarJarDinks/pokemon-index"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=pokemon-index&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/JarJarDinks/ChatApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=ChatApp&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
   <a href="https://github.com/JarJarDinks/classy-clash"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=classy-clash&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
