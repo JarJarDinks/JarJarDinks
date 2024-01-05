@@ -18,7 +18,9 @@
 <p align="center">
   
   <div align="center">
-    [![](https://visitcount.itsvg.in/api?id=JacobCoch&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=JacobCoch&label=Profile%20Views&color=7&icon=5&pretty=true" />
+</a>
   </div>
   <div align="center">
     <a href="https://www.linkedin.com/in/jacob-cochrane-534a8122a/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
