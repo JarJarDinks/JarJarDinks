@@ -19,11 +19,11 @@
   
   <div align="center">
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=JacobCoch&label=Profile%20Views&color=2&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=JacobCoch&label=Profile%20Views&color=7&icon=5&pretty=true" />
 </a>
   </div>
   <div align="center">
-    <a href="https://www.linkedin.com/in/jacob-cochrane/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/jacobcoch/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/JarJarDiinks"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
   </div>
 </p>
