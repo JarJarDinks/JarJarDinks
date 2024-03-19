@@ -20,13 +20,14 @@
 
 <!-- Social icons section -->
 <p align="center">
+  
   <div align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=JarJarDinks&label=Profile%20Views&color=2&pretty=true" />
-    </a>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=JacobCoch&label=Profile%20Views&color=7&icon=5&pretty=true" />
+</a>
   </div>
   <div align="center">
-    <a href="https://www.linkedin.com/in/jacob-cochrane-534a8122a/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/jacobcoch/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/JarJarDiinks"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
   </div>
 </p>
@@ -46,15 +47,15 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/JarJarDinks/recipe-app"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=recipe-app&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/JarJarDinks/myFLix-Angular-client"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=myFlix-Angular-client&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/JarJarDinks/meet-app"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=meet-app&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/JarJarDinks/pokemon-index"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=pokemon-index&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/JarJarDinks/ChatApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=ChatApp&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/JarJarDinks/classy-clash"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JarJarDinks&repo=classy-clash&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/jacobcoch/recipe-app"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobcoch&repo=recipe-app&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/jacobcoch/myFLix-Angular-client"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobcoch&repo=myFlix-Angular-client&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/jacobcoch/Dev-Meetups"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobcoch&repo=Dev-Meetups&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/jacobcoch/pokemon-index"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobcoch&repo=pokemon-index&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/jacobcoch/ChatApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobcoch&repo=ChatApp&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/jacobcoch/classy-clash"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jacobcoch&repo=classy-clash&theme=gruvbox&hide_border=true" alt="readme-typing-svg"></a>
 </p>
 
-  <a href="https://github.com/JarJarDinks?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/jacobcoch?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 </br>
@@ -66,18 +67,18 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JacobCoch&theme=gruvbox" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jacobcoch&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a><img alt="JarJardinks Github Stats" src="https://github-readme-stats.vercel.app/api/?username=JarJarDinks&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
-  <a><img alt="JarJarDinks Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarJarDinks&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="192px"/></a>
+  <a><img alt="jacobcoch Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jacobcoch&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
+  <a><img alt="jacobcoch Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobcoch&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="192px"/></a>
   <br/>
 
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-[![JarJarDinks github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JarJarDinks&theme=gruvbox&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![jacobcoch github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jacobcoch&theme=gruvbox&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
