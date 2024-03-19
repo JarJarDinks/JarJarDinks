@@ -66,19 +66,17 @@
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jacobcoch&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
-  </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JacobCoch)](https://git.io/streak-stats)
 
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a><img alt="jacobcoch Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jacobcoch&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true" height="192px"/></a>
-  <a><img alt="jacobcoch Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobcoch&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="192px"/></a>
+ ![JacobCoch GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobCoch&show_icons=true&theme=gruvbox&hide_border=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobCoch&layout=compact&theme=gruvbox&hide_border=true)
   <br/>
 
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-[![jacobcoch github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jacobcoch&theme=gruvbox&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![jacobcoch github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jacobcoch&theme=gruvbox&hide_border=true)
